@@ -1,0 +1,3 @@
+2000000 lovelace unlocked from the contract
+        Tx ID: 13cf0e08e7aecc57d3d60fef64a1cad8b98e2a5c64a6bda4121f77f1e1abb87b
+        Redeemer: 840001d8799f4d48656c6c6f2c20576f726c6421ff821978fd1a009aedf9
